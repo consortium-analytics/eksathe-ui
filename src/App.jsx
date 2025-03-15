@@ -5,7 +5,7 @@ import Navbar from "./shared/navbar/Navbar";
 
 function App() {
   return (
-    <div className="min-h-screen flex flex-col bg-[#3f325a]">
+    <div className="min-h-screen flex flex-col bg-[#362954]">
       {/* Fixed Navbar */}
       <Navbar />
 
