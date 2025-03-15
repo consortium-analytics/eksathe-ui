@@ -1,0 +1,129 @@
+[
+    {
+      "jobId": "c2d29b8b-8df6-4f08-a61e-7bb3b4a45678",
+      "title": "Senior Software Engineer",
+      "description": "Develop high-quality software solutions and applications.",
+      "vacancy": "2",
+      "location": "Bangladesh",
+      "experience": "5-Years",
+      "deadline": "2025-06-15",
+      "employmentStatus": "FULLTIME",
+      "jobCoverUrl": "job1.jpg",
+      "company": {
+        "companyId": "7f3f5b2c-4b77-4f5e-a5d1-e3f893f9b768",
+        "companyName": "Tech Solutions Ltd.",
+        "about": "Leading software development company.",
+        "establishmentDate": "2010-05-10",
+        "companySize": 200,
+        "companyAddress": {
+          "country": "Bangladesh",
+          "district": "Dhaka",
+          "thana": "Uttara",
+          "writeAddress": "House 32, Sector 9, Uttara, Dhaka"
+        },
+        "industryType": "Technology",
+        "sector": "PRIVATE",
+        "tradeLicenseNo": "98765432",
+        "websiteURL": "techsolutions.com",
+        "companyPhoneNo": "017XXXXXXXX",
+        "companyEmail": "info@techsolutions.com",
+        "contact": {
+          "contactPersonName": "Rahim Ahmed",
+          "contactPersonDesignation": "HR Manager",
+          "contactPersonEmail": "rahim@techsolutions.com",
+          "contactPersonMobile": "017XXXXXXXX"
+        },
+        "companyBannerUrl": "banner1.jpg",
+        "imagesUrl": [],
+        "employees": [],
+        "jobs": [],
+        "createdAt": "2025-01-30T21:41:13.644004",
+        "updatedAt": "2025-01-30T21:41:13.644004"
+      },
+      "category": {
+        "categoryId": "1a2b3c4d-5678-90ab-cdef-1234567890ab",
+        "name": "IT & SOFTWARE",
+        "subCategories": [
+          {
+            "subCategoryId": "2345abcd-6789-ef01-2345-6789abcdef01",
+            "name": "SOFTWARE DEVELOPMENT"
+          }
+        ]
+      },
+      "subCategory": {
+        "subCategoryId": "2345abcd-6789-ef01-2345-6789abcdef01",
+        "name": "SOFTWARE DEVELOPMENT"
+      },
+      "salary": 180000.0,
+      "latitude": 23.8103,
+      "longitude": 90.4125,
+      "promoted": true,
+      "active": true,
+      "createdAt": "2025-01-30T21:41:13.644004",
+      "updatedAt": "2025-01-30T21:41:13.644004"
+    },
+    {
+      "jobId": "a8f15b79-5bf3-4a1d-bb72-657f8e5d783c",
+      "title": "Data Analyst",
+      "description": "Analyze data and generate insights for business decisions.",
+      "vacancy": "1",
+      "location": "Bangladesh",
+      "experience": "3-Years",
+      "deadline": "2025-07-20",
+      "employmentStatus": "FULLTIME",
+      "jobCoverUrl": "job2.jpg",
+      "company": {
+        "companyId": "c1f4b5d6-e7f8-90a1-b2c3-d4e5f6789ab0",
+        "companyName": "Data Insights Ltd.",
+        "about": "Providing data-driven solutions.",
+        "establishmentDate": "2015-03-20",
+        "companySize": 150,
+        "companyAddress": {
+          "country": "Bangladesh",
+          "district": "Chattogram",
+          "thana": "Agrabad",
+          "writeAddress": "Plot 23, Agrabad Commercial Area, Chattogram"
+        },
+        "industryType": "Technology",
+        "sector": "PRIVATE",
+        "tradeLicenseNo": "78945612",
+        "websiteURL": "datainsights.com",
+        "companyPhoneNo": "018XXXXXXXX",
+        "companyEmail": "contact@datainsights.com",
+        "contact": {
+          "contactPersonName": "Fahim Rahman",
+          "contactPersonDesignation": "Recruitment Officer",
+          "contactPersonEmail": "fahim@datainsights.com",
+          "contactPersonMobile": "018XXXXXXXX"
+        },
+        "companyBannerUrl": "banner2.jpg",
+        "imagesUrl": [],
+        "employees": [],
+        "jobs": [],
+        "createdAt": "2025-01-30T21:41:13.644004",
+        "updatedAt": "2025-01-30T21:41:13.644004"
+      },
+      "category": {
+        "categoryId": "5e6f7g8h-1234-5678-90ab-cdef09876543",
+        "name": "DATA SCIENCE & ANALYTICS",
+        "subCategories": [
+          {
+            "subCategoryId": "6789abcd-ef01-2345-6789-abcdef012345",
+            "name": "DATA ANALYSIS"
+          }
+        ]
+      },
+      "subCategory": {
+        "subCategoryId": "6789abcd-ef01-2345-6789-abcdef012345",
+        "name": "DATA ANALYSIS"
+      },
+      "salary": 120000.0,
+      "latitude": 22.3569,
+      "longitude": 91.7832,
+      "promoted": false,
+      "active": true,
+      "createdAt": "2025-01-30T21:41:13.644004",
+      "updatedAt": "2025-01-30T21:41:13.644004"
+    }
+  ]
+  
